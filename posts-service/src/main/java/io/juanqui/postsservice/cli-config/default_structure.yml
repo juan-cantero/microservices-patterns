@@ -1,0 +1,8 @@
+default:
+  - controller
+  - model
+  - repository
+  - service
+  - config
+exclude_defaults:
+  - config

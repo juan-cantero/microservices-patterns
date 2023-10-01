@@ -1,0 +1,6 @@
+import org.springframework.stereotype.Service;
+
+@Service
+public class {{ClassName}}Service {
+    // Your service code here
+}
