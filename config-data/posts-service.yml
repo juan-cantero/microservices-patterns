@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: postservice
+    name: posts-service
 
   datasource:
     url: jdbc:mysql://localhost:3313/db?serverTimezone=UTC
